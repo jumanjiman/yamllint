@@ -18,6 +18,7 @@ classifiers = [
     "Topic :: Software Development :: Testing",
 ]
 dependencies = [
+    "Cython < 3",
     "pathspec >= 0.5.3",
     "pyyaml",
 ]
